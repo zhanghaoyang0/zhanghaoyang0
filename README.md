@@ -31,7 +31,7 @@
 <div align="left">
 <a href="https://github.com/zhanghaoyang0/DGAT-onco">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=DGAT-onco&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/zhanghaoyang0/DGAT-onco">
+<a href="https://github.com/zhanghaoyang0/rsidmap">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=rsidmap&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div">
   

@@ -6,7 +6,7 @@
  I am first or co-first author of some works in 📰 
  
  [*Int J Epidemiol*](https://pubmed.ncbi.nlm.nih.gov/34999863/),
- [*AM J Epidemiol*](https://pubmed.ncbi.nlm.nih.gov/35801869/), 
+ [*Am J Epidemiol*](https://pubmed.ncbi.nlm.nih.gov/35801869/), 
  [*BIBM*](https://ieeexplore.ieee.org/document/9669388/),
  [*Environmental Health*](https://pubmed.ncbi.nlm.nih.gov/31779611/) (co-first),
  [*Appetite*](https://pubmed.ncbi.nlm.nih.gov/29753760/) (co-first), 

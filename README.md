@@ -2,7 +2,7 @@
 
 <p>Hi, I am Haoyang Zhang😆.</p>
 <div align="left">
-  <img src="https://github.com/zhanghaoyang0/zhanghaoyang0/blob/main/pic/dogwithhat.png" width="160" height="130">
+  <img src="https://github.com/zhanghaoyang0/zhanghaoyang0/blob/main/pic/dogwithhat1.png" width="160" height="130">
 </div>
 
  I learned bioinformatics in Sun Yat-sen University and got my D.Eng (doctor of engineering) this year💻. </p> 

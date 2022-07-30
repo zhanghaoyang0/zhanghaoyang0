@@ -1,6 +1,10 @@
 #  🐣 About me
 
 <p>Hi, I am Haoyang Zhang😆.</p>
+<div align="left">
+  <img src="https://github.com/zhanghaoyang0/zhanghaoyang0/blob/main/pic/dogwithhat.png" width="160" height="130">
+</div>
+
  I learned bioinformatics in Sun Yat-sen University and got my D.Eng (doctor of engineering) this year💻. </p> 
  I work on epidemiology and population genetics (e.g., GWAS and post-GWAS)🗿. </p>
  I am first or co-first author of some works in 📰 
@@ -21,9 +25,7 @@
     <a href="https://github.com/zhanghaoyang0/zhanghaoyang0/"> <img src="https://img.shields.io/badge/Github-%234d4d4d.svg?&style=for-the-badge&logo=Github&logoColor=white"/> </a>
   
 
-<div align="center">
-  <img src="https://github.com/zhanghaoyang0/zhanghaoyang0/blob/main/pic/dogwithhat.png" width="160" height="160">
-</div>
+
 
 # 🌠 Tools
 <p> I make some tools and put them here (need more effort😅...).

@@ -22,7 +22,7 @@
   
 
 <div align="center">
-  <img src="https://github.com/zhanghaoyang0/zhanghaoyang0/blob/main/pic/cool_fish.jpg" width="160" height="160">
+  <img src="https://github.com/zhanghaoyang0/zhanghaoyang0/blob/main/pic/dogwithhat.jpg" width="160" height="160">
 </div>
 
 # 🌠 Tools

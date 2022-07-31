@@ -5,7 +5,7 @@
   <img src="https://github.com/zhanghaoyang0/zhanghaoyang0/blob/main/pic/dogwithhat1.png" width="160" height="130">
 </div>
 
- I learned bioinformatics in Sun Yat-sen University and got my D.Eng (doctor of engineering) this year💻. </p> 
+ I learned bioinformatics in Sun Yat-sen University and got my D.Eng (doctor of engineering) this year, supervised by [Prof. Yuedong Yang](http://biomed.nscc-gz.cn/research.php) 💻. </p> 
  I work on epidemiology and population genetics (e.g., GWAS and post-GWAS)🗿. </p>
  I am first or co-first author of some works in 📰 
  
@@ -14,6 +14,7 @@
  [*BIBM*](https://ieeexplore.ieee.org/document/9669388/),
  [*Environmental Health*](https://pubmed.ncbi.nlm.nih.gov/31779611/) (co-first),
  [*Appetite*](https://pubmed.ncbi.nlm.nih.gov/29753760/) (co-first), 
+ [*Reprod Biomed Online*](https://pubmed.ncbi.nlm.nih.gov/34836814/) (co-first), 
  and *BMC Medicine*(accepted, co-first). </p> 
  
  I am looking for a postdoc position now 👀. </p>

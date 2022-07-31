@@ -1,4 +1,4 @@
-#  🐣 About me
+#  About me
 
 <p>Hi, I am Haoyang Zhang😆.</p>
 <div align="left">
@@ -17,7 +17,7 @@
  [*Reprod Biomed Online*](https://pubmed.ncbi.nlm.nih.gov/34836814/) (co-first), 
  and *BMC Medicine*(accepted, co-first). </p> 
  
- I am looking for a postdoc position now 👀. </p>
+ I am looking for an oversea postdoc position now 👀. </p>
  If you have any comments and feedbacks, feel free to contact me via zhanghaoyang0@hotmail.com 💭. </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 
 
-# 🌠 Tools
+# Tools
 <p> I make some tools and put them here (need more effort😅...).
 
 <div align="left">

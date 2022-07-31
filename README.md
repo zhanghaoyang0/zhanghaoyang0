@@ -7,15 +7,17 @@
 
  I learned bioinformatics in Sun Yat-sen University and got my D.Eng (doctor of engineering) this year, supervised by [Prof. Yuedong Yang](http://biomed.nscc-gz.cn/research.php) 💻. </p> 
  I work on epidemiology and population genetics (e.g., GWAS and post-GWAS)🗿. </p>
- I am first or co-first author of some works in 📰 
+ I am first author of some works in 
  
  [*Int J Epidemiol*](https://pubmed.ncbi.nlm.nih.gov/34999863/),
  [*Am J Epidemiol*](https://pubmed.ncbi.nlm.nih.gov/35801869/), 
  [*BIBM*](https://ieeexplore.ieee.org/document/9669388/),
- [*Environmental Health*](https://pubmed.ncbi.nlm.nih.gov/31779611/) (co-first),
- [*Appetite*](https://pubmed.ncbi.nlm.nih.gov/29753760/) (co-first), 
- [*Reprod Biomed Online*](https://pubmed.ncbi.nlm.nih.gov/34836814/) (co-first), 
- and *BMC Medicine*(accepted, co-first). </p> 
+ 
+and co-first author of some works in  
+ [*Environmental Health*](https://pubmed.ncbi.nlm.nih.gov/31779611/),
+ [*Appetite*](https://pubmed.ncbi.nlm.nih.gov/29753760/), 
+ [*Reprod Biomed Online*](https://pubmed.ncbi.nlm.nih.gov/34836814/), 
+ and *BMC Medicine*(accepted). </p> 
  
  I am looking for an oversea postdoc position now 👀. </p>
  If you have any comments and feedbacks, feel free to contact me via zhanghaoyang0@hotmail.com 💭. </p>

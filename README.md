@@ -31,7 +31,8 @@ and co-first author of some works in
 
 
 # Tools
-<p> I make some tools and put them here (need more effort😅...).
+<p> I make some tools and put them here (need more effort😅...). If you meet any qestion when using the tools, just tell me.
+
 
 <div align="center">
 <a href="https://github.com/zhanghaoyang0/DGAT-onco">

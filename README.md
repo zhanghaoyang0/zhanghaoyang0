@@ -38,7 +38,7 @@ and co-first author of some works in
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=DGAT-onco&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/zhanghaoyang0/rsidmap">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=rsidmap&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div">
+<a href="https://github.com/zhanghaoyang0/easylift">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easylift&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div">
   

@@ -14,10 +14,11 @@
  [*BIBM*](https://ieeexplore.ieee.org/document/9669388/),
  
 and co-first author of some works in  
+ [*BMC Medicine*](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-022-02476-0),
  [*Environmental Health*](https://pubmed.ncbi.nlm.nih.gov/31779611/),
- [*Appetite*](https://pubmed.ncbi.nlm.nih.gov/29753760/), 
- [*Reprod Biomed Online*](https://pubmed.ncbi.nlm.nih.gov/34836814/), 
- and *BMC Medicine*(accepted). </p> 
+ [*Appetite*](https://pubmed.ncbi.nlm.nih.gov/29753760/),
+ and [*Reprod Biomed Online*](https://pubmed.ncbi.nlm.nih.gov/34836814/). 
+ </p> 
  
  I am looking for an oversea postdoc position now 👀. </p>
  If you have any comments and feedbacks, feel free to contact me via zhanghaoyang0@hotmail.com 💭. </p>

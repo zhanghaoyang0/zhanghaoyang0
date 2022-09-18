@@ -46,5 +46,8 @@ and co-first author of some works in
 <a href="https://github.com/zhanghaoyang0/easylift">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easylift&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div">
+<a href="https://github.com/zhanghaoyang0/easyanno">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easyanno&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+</div">
   
  

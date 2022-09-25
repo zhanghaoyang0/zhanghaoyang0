@@ -22,7 +22,6 @@ and co-first author of some works in
  and [*Reprod Biomed Online*](https://pubmed.ncbi.nlm.nih.gov/34836814/). 
  </p> 
  
- I am looking for an oversea postdoc position now 👀. </p>
  If you have any comments and feedbacks, feel free to contact me via zhanghaoyang0@hotmail.com 💭. </p>
 
 <p align="center">

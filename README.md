@@ -1,14 +1,14 @@
 #  About me
 
-<p>Hi, I am Haoyang Zhang😆.</p>
 <!--
 <div align="left">
 <img src="https://github.com/zhanghaoyang0/zhanghaoyang0/blob/main/pic/dogwithhat1.png" width="160" height="130">
 </div>
 -->
 
- I learned bioinformatics in Sun Yat-sen University and got my D.Eng (doctor of engineering) this year, supervised by [Prof. Yuedong Yang](http://biomed.nscc-gz.cn/research.php) 💻. </p> 
- I work on epidemiology and population genetics (e.g., GWAS and post-GWAS)🗿. </p>
+ I am Haoyang Zhang.
+ I studied at Sun Yat-sen University (2010~2022) and got a D.Eng in bioinformatics under the supervision of [Prof. Yuedong Yang](http://biomed.nscc-gz.cn/research.php) . </p> 
+ I work on epidemiology and population genetics (e.g., GWAS and post-GWAS). </p>
  I am first author of some works in 
  
  [*Int J Epidemiol*](https://pubmed.ncbi.nlm.nih.gov/34999863/),

@@ -2,7 +2,7 @@
 
 <!--
 <div align="left">
-<img src="https://github.com/zhanghaoyang0/zhanghaoyang0/blob/main/pic/dogwithhat1.png" width="160" height="130">
+<img src="https://github.com/zhanghaoyang0/zhanghaoyang0/blob/main/pic/cat.png" width="160" height="130">
 </div>
 -->
 

@@ -31,7 +31,7 @@ and co-first author of some works in
 
 
 # Tools
-<p> I make some tools and put them here (need more effort...). If you meet any qestion when using the tools, just tell me (zhanghaoyang0@hotmail.com).
+<p> I make some simple tools and would like to share with you. If you have any feedback please tell me via zhanghaoyang0@hotmail.com.
 
 
 <div align="center">

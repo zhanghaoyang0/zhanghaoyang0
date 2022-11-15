@@ -21,20 +21,17 @@ and co-first author of some works in
  [*Appetite*](https://pubmed.ncbi.nlm.nih.gov/29753760/),
  and [*Reprod Biomed Online*](https://pubmed.ncbi.nlm.nih.gov/34836814/). 
  </p> 
- 
- If you have any comments and feedbacks, feel free to contact me via zhanghaoyang0@hotmail.com 💭. </p>
 
 <p align="center">
     <a href="https://www.researchgate.net/profile/Haoyang-Zhang"> <img src="https://img.shields.io/badge/ResearchGate-%231793d1.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"/> </a>
     <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%28Haoyang+zhang%5BAuthor%5D%29+AND+%28Sun+Yat-sen%5BAffiliation%5D%29&sort="> <img src="https://img.shields.io/badge/PubMed-%2357A143.svg?&style=for-the-badge&logo=PubMed&logoColor=white"/> </a>
     <a href="https://github.com/zhanghaoyang0/zhanghaoyang0/"> <img src="https://img.shields.io/badge/Github-%234d4d4d.svg?&style=for-the-badge&logo=Github&logoColor=white"/> </a>
     <a href="https://linkedin.com/in/haoyang-zhang-004949210"> <img src="https://img.shields.io/badge/LinkedIn-%3111252.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/> </a>
-  
-
+ 
 
 
 # Tools
-<p> I make some tools and put them here (need more effort😅...). If you meet any qestion when using the tools, just tell me.
+<p> I make some tools and put them here (need more effort...). If you meet any qestion when using the tools, just tell me (zhanghaoyang0@hotmail.com).
 
 
 <div align="center">

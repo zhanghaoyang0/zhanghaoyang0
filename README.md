@@ -7,7 +7,7 @@
 -->
 
  I am Haoyang Zhang.
- I studied at Sun Yat-sen University (2010~2022) and got a D.Eng in bioinformatics under the supervision of [Prof. Yuedong Yang](http://biomed.nscc-gz.cn/research.php) . </p> 
+ I studied at Sun Yat-sen University (2010~2022) and got a D.Eng in bioinformatics. </p> 
  I work on epidemiology and population genetics (e.g., GWAS and post-GWAS). </p>
  I am first author of some works in 
  

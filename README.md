@@ -18,6 +18,7 @@
 and co-first author of some works in  
  [*BMC Medicine*](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-022-02476-0),
  [*Environmental Health*](https://pubmed.ncbi.nlm.nih.gov/31779611/),
+ [*J Med Virol*](https://pubmed.ncbi.nlm.nih.gov/36495182/)，
  [*Appetite*](https://pubmed.ncbi.nlm.nih.gov/29753760/),
  and [*Reprod Biomed Online*](https://pubmed.ncbi.nlm.nih.gov/34836814/). 
  </p> 

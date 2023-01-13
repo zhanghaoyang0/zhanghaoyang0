@@ -7,7 +7,7 @@
 -->
 
  I am Haoyang Zhang.
- I studied at Sun Yat-sen University (2010~2022) and got a D.Eng in bioinformatics. </p> 
+ I studied at Sun Yat-sen University (2011-2022), and now working in Wuxi children's hospital (2022~). </p> 
  I work on epidemiology and population genetics (e.g., GWAS and post-GWAS). </p>
  I am first author of some works in 
  

@@ -6,9 +6,8 @@
 </div>
 -->
 
- I am Haoyang Zhang.  
- I studied at Sun Yat-sen University (2011-2022), and now working in Wuxi children's hospital (2022~). </p> 
- I work on epidemiology and population genetics (e.g., GWAS and post-GWAS). </p>
+ I am Haoyang Zhang. I studied at Sun Yat-sen University (2011-2022), and now working in Wuxi children's hospital (2022~). </p> 
+ I am interested in epidemiology and genetics. </p>
  I am first author of some works in 
  
  [*Int J Epidemiol*](https://pubmed.ncbi.nlm.nih.gov/34999863/),

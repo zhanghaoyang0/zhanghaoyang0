@@ -1,52 +1,47 @@
 #  About me
+<img src="https://github.com/zhanghaoyang0/zhanghaoyang0/blob/main/pic/dogwithhat.png" width = "120" height = "100" align=right />
 
-<!--
-<div align="left">
-<img src="https://github.com/zhanghaoyang0/zhanghaoyang0/blob/main/pic/cat.png" width="160" height="130">
-</div>
--->
-
- I am Haoyang Zhang. I studied at Sun Yat-sen University (2011-2022), and now working in Wuxi children's hospital (2022~). </p> 
- I am interested in epidemiology and genetics. </p>
- I am first author of some works in 
+Haoyang Zhang, Doctor of engineering in bioinformatics.  
  
- [*Int J Epidemiol*](https://pubmed.ncbi.nlm.nih.gov/34999863/),
- [*Am J Epidemiol*](https://pubmed.ncbi.nlm.nih.gov/35801869/), 
- [*BIBM*](https://ieeexplore.ieee.org/document/9669388/),
  
-and co-first author of some works in  
- [*BMC Medicine*](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-022-02476-0),
- [*Environmental Health*](https://pubmed.ncbi.nlm.nih.gov/31779611/),
- [*J Med Virol*](https://pubmed.ncbi.nlm.nih.gov/36495182/)，
- [*Appetite*](https://pubmed.ncbi.nlm.nih.gov/29753760/),
- and [*Reprod Biomed Online*](https://pubmed.ncbi.nlm.nih.gov/34836814/). 
- </p> 
-
-<p align="center">
-    <a href="https://www.researchgate.net/profile/Haoyang-Zhang"> <img src="https://img.shields.io/badge/ResearchGate-%231793d1.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"/> </a>
-    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%28Haoyang+zhang%5BAuthor%5D%29+AND+%28Sun+Yat-sen%5BAffiliation%5D%29&sort="> <img src="https://img.shields.io/badge/PubMed-%2357A143.svg?&style=for-the-badge&logo=PubMed&logoColor=white"/> </a>
-    <a href="https://github.com/zhanghaoyang0/zhanghaoyang0/"> <img src="https://img.shields.io/badge/Github-%234d4d4d.svg?&style=for-the-badge&logo=Github&logoColor=white"/> </a>
-    <a href="https://linkedin.com/in/haoyang-zhang-004949210"> <img src="https://img.shields.io/badge/LinkedIn-%3111252.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/> </a>
- 
+I Studied in Sun Yat-sen University (2010 - 2022), working in Wuxi children's hospital (2022 - ).  
 
 
-# Tools
-<p> I make some simple tools and would like to share with you. If you have any feedback please tell me via zhanghaoyang0@hotmail.com.
+#  Tool & project  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=DGAT-onco)](https://github.com/zhanghaoyang0/DGAT-onco)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=rsidmap)](https://github.com/zhanghaoyang0/rsidmap)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easylift)](https://github.com/zhanghaoyang0/easylift)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easyanno)](https://github.com/zhanghaoyang0/easyanno)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easydb)](https://github.com/zhanghaoyang0/easydb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=covid_survey)](https://github.com/zhanghaoyang0/covid_survey)
 
 
-<div align="center">
-<a href="https://github.com/zhanghaoyang0/DGAT-onco">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=DGAT-onco&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/zhanghaoyang0/rsidmap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=rsidmap&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/zhanghaoyang0/easylift">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easylift&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div">
-<a href="https://github.com/zhanghaoyang0/easyanno">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easyanno&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div">
-<a href="https://github.com/zhanghaoyang0/easydb">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easydb&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div">
-  
- 
+
+#  Selected publication  
+See full list in my [Researchgate LINK](https://www.researchgate.net/profile/Haoyang-Zhang)
+
+( <sup>#</sup> for co-first author; * for corresponding author )
+1. **Zhang H**, Xiu X, Xue A, Yang YH*, Yang YD*, Zhao H*. 
+Mendelian randomization study reveals a population-specific putative causal effect of type 2 diabetes in risk of cataract.  
+*Int J Epidemiol*. 2022. [LINK](https://pubmed.ncbi.nlm.nih.gov/34999863/)
+2. **Zhang H**, Xiu X, Yang YH*, Yang YD*, Zhao H*. 
+Identification of Putative Causal Relationships Between Type 2 Diabetes and Blood-Based Biomarkers in East Asians by Mendelian Randomization.  
+*Am J Epidemiol*. 2022. [LINK](https://pubmed.ncbi.nlm.nih.gov/35801869/)
+3. **Zhang H**, Wei J, Liu Z, Liu X, Chong Y, Lu Y, Zhao H, Yang Y*.  
+DGAT-onco: A differential analysis method to detect oncogenes by integrating functional information of mutations.  
+*IEEE BIBM* (CCF-B). 2021. [LINK](https://ieeexplore.ieee.org/document/9669388/)
+4. Xiu X<sup>#</sup>, **Zhang H<sup>#</sup>**, Xue A, Cooper DN, Yan L, Yang YH*, Yang YD*, Zhao H*.  
+Genetic evidence for a causal relationship between type 2 diabetes and peripheral artery disease in both Europeans and East Asians.    
+*BMC Med*. 2022. [LINK](https://pubmed.ncbi.nlm.nih.gov/36042491/)
+6. Chen H<sup>#</sup>, **Zhang H<sup>#</sup>**, Wen S, Xiu X, You D, Zhao H, Wang D*, Yang Y*, Shu Y*.  
+Mendelian randomization suggests a potential causal effect of eosinophil count on influenza vaccination responsiveness.  
+*J Med Virol*. 2023. [LINK](https://pubmed.ncbi.nlm.nih.gov/36495182/)
+7. Zhao M<sup>#</sup>, **Zhang H<sup>#</sup>**, Waters THB, Chung JPW, Li TC, Chan DYL*.  
+The effects of daily meteorological perturbation on pregnancy outcome: follow-up of a cohort of young women undergoing IVF treatment. 
+*Environ Health*. 2019. [LINK](https://pubmed.ncbi.nlm.nih.gov/31779611/)
+9. Lu Z<sup>#</sup>, **Zhang H<sup>#</sup>**, Luoto S<sup>#</sup>, Ren X<sup>#</sup>*.   
+Gluten-free living in China: The characteristics, food choices and difficulties in following a gluten-free diet - An online survey.  
+*Appetite*. 2018. [LINK](https://pubmed.ncbi.nlm.nih.gov/29753760/)
+10. Liu J<sup>#</sup>, Zhao M<sup>#</sup>, **Zhang H<sup>#</sup>**, Zhao J, Kong H, Zhou M, Guan Y, Li TC, Wang X, Chan DYL*.  
+Associations between ambient air pollution and IVF outcomes in a heavily polluted city in China.  
+*Reprod Biomed Online*. 2022. [LINK](https://pubmed.ncbi.nlm.nih.gov/34836814/)

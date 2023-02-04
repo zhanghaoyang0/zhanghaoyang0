@@ -37,7 +37,7 @@ Genetic evidence for a causal relationship between type 2 diabetes and periphera
 Mendelian randomization suggests a potential causal effect of eosinophil count on influenza vaccination responsiveness.  
 *J Med Virol*. 2023. [LINK](https://pubmed.ncbi.nlm.nih.gov/36495182/)
 7. Zhao M<sup>#</sup>, **Zhang H<sup>#</sup>**, Waters THB, Chung JPW, Li TC, Chan DYL*.  
-The effects of daily meteorological perturbation on pregnancy outcome: follow-up of a cohort of young women undergoing IVF treatment. 
+The effects of daily meteorological perturbation on pregnancy outcome: follow-up of a cohort of young women undergoing IVF treatment.  
 *Environ Health*. 2019. [LINK](https://pubmed.ncbi.nlm.nih.gov/31779611/)
 9. Lu Z<sup>#</sup>, **Zhang H<sup>#</sup>**, Luoto S<sup>#</sup>, Ren X<sup>#</sup>*.   
 Gluten-free living in China: The characteristics, food choices and difficulties in following a gluten-free diet - An online survey.  

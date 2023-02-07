@@ -4,7 +4,7 @@
 Haoyang Zhang, Doctor of engineering in bioinformatics.  
  
  
-I Studied in Sun Yat-sen University (2010 - 2022), working in Wuxi children's hospital (2022 - ).  
+I studied in Sun Yat-sen University (2010 - 2022), working in Wuxi children's hospital (2022 - ).  
 
 
 #  Tool & project  

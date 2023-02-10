@@ -1,10 +1,10 @@
 #  About me
 <img src="https://github.com/zhanghaoyang0/zhanghaoyang0/blob/main/pic/dogwithhat.png" width = "120" height = "100" align=right />
 
-Haoyang Zhang, Doctor of engineering in bioinformatics.  
- 
- 
-I studied in Sun Yat-sen University (2010 - 2022), working in Wuxi children's hospital (2022 - ).  
+Haoyang Zhang,  
+  Doctor of engineering in bioinformatics,    
+  studied in Sun Yat-sen University (2010 - 2022),    
+  working in Wuxi children's hospital (2022 - ).    
 
 
 #  Tool & project  

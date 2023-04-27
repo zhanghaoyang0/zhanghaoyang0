@@ -7,14 +7,17 @@ Haoyang Zhang,
   working in affiliated children's hospital of Jiannan University (2022 - ).    
 
 
-#  Tool & project  
+# Bioinformatics Tools 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=DGAT-onco)](https://github.com/zhanghaoyang0/DGAT-onco)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=rsidmap)](https://github.com/zhanghaoyang0/rsidmap)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easylift)](https://github.com/zhanghaoyang0/easylift)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easyanno)](https://github.com/zhanghaoyang0/easyanno)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easydb)](https://github.com/zhanghaoyang0/easydb)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=covid_survey)](https://covid-survey.readthedocs.io/en/latest/)
 
+
+#  Epidemiology projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=covid_survey)](https://covid-survey.readthedocs.io/en/latest/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=covid_survey2)](https://covid-survey2.readthedocs.io/en/latest/)
 
 
 #  Selected publication  

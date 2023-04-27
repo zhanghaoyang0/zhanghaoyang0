@@ -13,7 +13,7 @@ Haoyang Zhang,
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easylift)](https://github.com/zhanghaoyang0/easylift)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easyanno)](https://github.com/zhanghaoyang0/easyanno)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easydb)](https://github.com/zhanghaoyang0/easydb)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=covid_survey)](https://github.com/zhanghaoyang0/covid_survey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=covid_survey)](https://covid-survey.readthedocs.io/en/latest/)
 
 
 

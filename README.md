@@ -7,19 +7,6 @@ Haoyang Zhang,
   working in affiliated children's hospital of Jiannan University (2022 - ).    
 
 
-# Bioinformatics Tools 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=DGAT-onco)](https://github.com/zhanghaoyang0/DGAT-onco)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=rsidmap)](https://github.com/zhanghaoyang0/rsidmap)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easylift)](https://github.com/zhanghaoyang0/easylift)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easyanno)](https://github.com/zhanghaoyang0/easyanno)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easydb)](https://github.com/zhanghaoyang0/easydb)
-
-
-#  Epidemiology projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=covid_survey)](https://covid-survey.readthedocs.io/en/latest/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=covid_survey2)](https://covid-survey2.readthedocs.io/en/latest/)
-
-
 #  Selected publication  
 See full list in my [Researchgate LINK](https://www.researchgate.net/profile/Haoyang-Zhang)
 
@@ -48,3 +35,16 @@ Gluten-free living in China: The characteristics, food choices and difficulties 
 10. Liu J<sup>#</sup>, Zhao M<sup>#</sup>, **Zhang H<sup>#</sup>**, Zhao J, Kong H, Zhou M, Guan Y, Li TC, Wang X, Chan DYL*.  
 Associations between ambient air pollution and IVF outcomes in a heavily polluted city in China.  
 *Reprod Biomed Online*. 2022. [LINK](https://pubmed.ncbi.nlm.nih.gov/34836814/)
+
+
+# Bioinformatics Tools 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=DGAT-onco)](https://github.com/zhanghaoyang0/DGAT-onco)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=rsidmap)](https://github.com/zhanghaoyang0/rsidmap)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easylift)](https://github.com/zhanghaoyang0/easylift)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easyanno)](https://github.com/zhanghaoyang0/easyanno)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=easydb)](https://github.com/zhanghaoyang0/easydb)
+
+
+#  Epidemiology projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=covid_survey)](https://covid-survey.readthedocs.io/en/latest/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=covid_survey2)](https://covid-survey2.readthedocs.io/en/latest/)

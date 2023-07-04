@@ -13,8 +13,8 @@ See full list in my [Researchgate LINK](https://www.researchgate.net/profile/Hao
 
 1. **Zhang H**, Lu Z, Yang F, Chen H, Zhang L*, Zhao H*, Chen Y*.
 Symptom profiles and vaccination status for COVID-19 after the adjustment of the dynamic zero-COVID policy in China: an observational study.  
-*J Med Virol*. 2023. [project link](https://covid-survey.readthedocs.io/en/latest/index.html/) [paper link](https://onlinelibrary.wiley.com/doi/10.1002/jmv.28893)
-2. **Zhang H**, Xiu X, Xue A, Yang YH*, Yang YD*, Zhao H*. 
+*J Med Virol*. 2023. [project link](https://covid-survey.readthedocs.io/en/latest/index.html/) [paper link](https://pubmed.ncbi.nlm.nih.gov/37394796)
+2. **Zhang H**, Xiu X, Xue A, Yang YH*, Yang YD*, Zhao H*.  
 Mendelian randomization study reveals a population-specific putative causal effect of type 2 diabetes in risk of cataract.  
 *Int J Epidemiol*. 2022. [paper link](https://pubmed.ncbi.nlm.nih.gov/34999863/)
 3. **Zhang H**, Xiu X, Yang YH*, Yang YD*, Zhao H*. 

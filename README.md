@@ -2,7 +2,7 @@
 <img src="https://github.com/zhanghaoyang0/zhanghaoyang0/blob/main/pic/dogwithhat.png" width = "120" height = "100" align=right />
 
 Haoyang Zhang,  
-  Doctor of Engineering in bioinformatics,    
+  Doctor of Engineering in Bioinformatics,    
   studied in Sun Yat-sen University (2010 - 2022).    
 
 

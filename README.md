@@ -3,7 +3,7 @@
 
 Haoyang Zhang,  
   Doctor of Engineering in Bioinformatics,    
-  Studied in Sun Yat-sen University (2010 - 2022),
+  Studied in Sun Yat-sen University (2010 - 2022),  
   PostDoc in Lund University.
 
 

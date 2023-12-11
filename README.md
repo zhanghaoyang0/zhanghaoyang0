@@ -52,4 +52,4 @@ Associations between ambient air pollution and IVF outcomes in a heavily pollute
 #  Epidemiology projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=covid_survey)](https://covid-survey.readthedocs.io/en/latest/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=covid_survey2)](https://covid-survey2.readthedocs.io/en/latest/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=jinqiao_cohort)](https://jinqiao_cohort.readthedocs.io/en/latest/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhanghaoyang0&repo=jinqiao_cohort)](https://jinqiao-cohort.readthedocs.io/en/latest/)

@@ -3,7 +3,7 @@
 
 Haoyang Zhang,  
   Doctor of Engineering in Bioinformatics (Sun Yat-sen University),  
-  Doing PostDoc in Lund University,
+  Doing PostDoc in Lund University,  
   https://zhanghaoyang0.uk/
 
 

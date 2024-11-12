@@ -3,5 +3,4 @@
 
 * Name: Haoyang Zhang
 * Job: PostDoc in Bioinformatics, Lund University
-* Contact: haoyang.zhang@med.lu.se
 * Website: [Sunny Café](https://zhanghaoyang0.uk/).
